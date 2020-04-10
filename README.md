@@ -1,2 +1,2 @@
 # python-projects
-Python projects created in python 3. 
+Projects created in python3. 
