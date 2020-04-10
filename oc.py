@@ -1,6 +1,6 @@
 import pandas as pd
 
-#create dataframe of polling locations from LA County website
+#create dataframe of polling locations from Orange County website
 oc = pd.read_html('https://ocvote.com/fileadmin/vc/vclist.html')[1]
 
 #test to make sure the correct table was selected
